@@ -10,9 +10,9 @@
     "ا": {
       "main": { "code": 1570, "label": "آ"},
       "relevant": [
-        { "code": 1649, "label": "ٱ" },
+        { "code": 1649, "label": "أ" },
         { "code": 1569, "label": "ء" },
-        { "code": 1571, "label": "أ" },
+        { "code": 1571, "label": "ٱ" },
         { "code": 1573, "label": "إ" }
       ]
     },
@@ -41,7 +41,9 @@
     },
     "و": {
       "relevant": [
-        { "code": 1572, "label": "ؤ" }
+        { "code": 1572, "label": "ؤ" },
+        { "code": 1734, "label": "ۆ" },
+        { "code": 1735, "label": "ۇ" }
       ]
     },
     "~right": {
