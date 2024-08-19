@@ -11,9 +11,9 @@
       "main": { "code": 1570, "label": "آ"},
       "relevant": [
         { "code": 1649, "label": "أ" },
-        { "code": 1569, "label": "ء" },
+        { "code": 1569, "label": "إ" },
         { "code": 1571, "label": "ٱ" },
-        { "code": 1573, "label": "إ" }
+        { "code": 1573, "label": "ء" }
       ]
     },
     "ه": {
