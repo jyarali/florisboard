@@ -315,6 +315,13 @@
         "modifier": "org.florisboard.layouts:persian3"
       },
       {
+        "id": "persian4",
+        "label": "Turkmeni",
+        "authors": [ "JYarali" ],
+        "direction": "rtl",
+        "modifier": "org.florisboard.layouts:turkmeni"
+      },
+      {
         "id": "qwerty",
         "label": "QWERTY",
         "authors": [ "patrickgold" ],
